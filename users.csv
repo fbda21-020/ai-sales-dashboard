@@ -1,0 +1,3 @@
+username,password_hash,role
+analyst1,$2b$12$BENmO6tXE95WTWz.luRZkO3YbHN0ZztQ6tRIctCps.4z.6SP2HCXa,analyst
+marketer1,$2b$12$E5g1ddCRZ5FPr9mX/vKTlOAHQwyjYUTTInpkBXLHC3tCAC706usdi,marketer
